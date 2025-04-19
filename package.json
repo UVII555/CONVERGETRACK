@@ -1,11 +1,11 @@
 
-"homepage":
-"https://UVI155.github.io/CONVERGETRACK"
+
 {
   "name": "convergetrack",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://UVI155.github.io/CONVERGETRACK",
+  "homepage":
+  "https://UVI155.github.io/CONVERGETRACK",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
